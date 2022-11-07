@@ -58,11 +58,11 @@ a {
 
 /* Pre Header Style */
 #pre-header {
-	background-color: #1f46a0;
+	background-color: #3a8bcd;
 	text-align: center;
 }
 #pre-header span {
-	color: #fff;
+	color: rgb(180, 160, 160);
 	font-size: 15px;
 	padding: 10px 0px;
 	display: inline-block;
@@ -130,11 +130,11 @@ a {
 }
 /* Banner Style */
 .banner {
-	margin-top: 50px;
-	background-image: url(../images/logo\ nw\ .png);
+	margin-top: 30px;
+	background-image: url(../images/bg.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding: px 0px;
+	padding: px 50px;
 	background-position: center center;
 }
 .banner .caption {
@@ -155,7 +155,7 @@ a {
 	background-color: #3a8bcd;
 }
 .banner .caption p {
-	margin-top: 15px;
+	margin-top: 150px;
 	margin-bottom: 20px;
 }
 
